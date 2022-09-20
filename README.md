@@ -1,4 +1,4 @@
-<h1 align="center">Menu</h1>
+<h1 align="center">React Graphics</h1>
 
 <p align="center">Projeto criado com o objetivo de praticar a criação de Menus laterais expansivos.</p>
 
